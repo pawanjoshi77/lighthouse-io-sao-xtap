@@ -1,0 +1,23 @@
+body{
+  background-color: lightblue;
+}
+
+.App {
+ text-align : center; 
+ font-family: sans-serif;
+}
+
+
+.canadiansports {
+  width: 45%
+}
+
+h1 {
+  color: red;
+  font-family: cursive;
+}
+
+p {
+padding: 0 10em;
+font-family: 'Gill Sans';
+}
